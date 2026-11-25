@@ -1,5 +1,5 @@
 # Sentinel Frontend
-
+Magic
 This project is built using React, TypeScript, and Vite.
 
 ## Installation
